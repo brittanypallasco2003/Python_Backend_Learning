@@ -8,8 +8,7 @@ una vez finalizado.
 ## 📂 Índice de proyectos
 
 ### Fundamentos
-- [Hola Mundo](./tree/feature/hola-mundo/Fundamentos/fecha-nacimiento)
-- [Cálculo de edad con fecha de nacimiento](./tree/feature/fecha-nacimiento)
+- [Cálculo de edad con fecha de nacimiento](./tree/feature/fecha-nacimiento/Fundamentos/fecha-nacimiento)
 - [Condicional: año bisiesto](./tree/feature/condicionales-bisiesto)
 - [Juego de adivinanza con bucles](./tree/feature/bucles-adivinanza)
 - [Lista de tareas con listas](./tree/feature/listas-tareas)
