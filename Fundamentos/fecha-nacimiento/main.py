@@ -28,8 +28,8 @@ def devolver_edad(fecha_nacimiento):
     if fecha_nacimiento > hoy:
         raise ValueError("La fecha de nacimiento no puede ser futura")
 
-    edad = hoy - fecha_nacimiento
-    return edad.days / 365
+    intervalo_tiempo = hoy - fecha_nacimiento
+    return intervalo_tiempo.days / 365
 
 
 main()
