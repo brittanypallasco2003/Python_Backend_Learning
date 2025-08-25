@@ -9,7 +9,7 @@ una vez finalizado.
 
 ### Fundamentos
 - [Cálculo de edad con fecha de nacimiento](./tree/feature/fecha-nacimiento/Fundamentos/fecha-nacimiento)
-- [Condicional: año bisiesto](./tree/feature/condicionales-bisiesto)
+- [Condicional: año bisiesto](./tree/feature/condicionales-bisiesto/Fundamentos/condicionales-bisiesto)
 - [Juego de adivinanza con bucles](./tree/feature/bucles-adivinanza)
 - [Lista de tareas con listas](./tree/feature/listas-tareas)
 - [Agenda de contactos con diccionarios](./tree/feature/diccionarios-agenda)
